@@ -1,0 +1,15 @@
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.AssemblyReference.cache
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfoInputs.cache
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfo.cs
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.deps.json
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.runtimeconfig.json
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.dll
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.pdb
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.dll
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/refint/StaticExercise.dll
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.pdb
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.genruntimeconfig.cache
+/Users/d.kovlak/Desktop copy/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/ref/StaticExercise.dll
